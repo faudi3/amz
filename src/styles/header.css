@@ -70,3 +70,8 @@
     margin-right: 10px;
     color: white;
 }
+
+.Link {
+    outline: none;
+    text-decoration: none;
+}
